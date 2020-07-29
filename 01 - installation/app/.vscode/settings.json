@@ -1,0 +1,119 @@
+{
+  "editor.fontSize": 14,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.iconTheme": "easy-icons",
+  "window.zoomLevel": -1,
+  "workbench.activityBar.visible": false,
+  "editor.renderWhitespace": "none",
+  "scm.diffDecorations": "none",
+  "editor.scrollBeyondLastLine": false,
+  "editor.minimap.maxColumn": 40,
+  "workbench.colorCustomizations": {
+    "editorBracketMatch.background": "#FFFFFF10",
+    "editorBracketMatch.border": "#FFFFFF00",
+    "editorError.border": "#FF0000",
+    "editorError.foreground": "#FF0000",
+    "editorWarning.border": "#FF9900",
+    "editorWarning.foreground": "#FF9900",
+    "editor.selectionBackground": "#FFFFFF40",
+    "editor.selectionHighlightBackground": "#FFFFFF00",
+    "editor.selectionHighlightBorder": "#FFFFFF",
+    "editor.wordHighlightBackground": "#FFFFFF00",
+    "editor.wordHighlightBorder": "#FFFFFF00",
+    "editor.wordHighlightStrongBackground": "#FFFFFF00",
+    "editor.wordHighlightStrongBorder": "#FFFFFF00"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": true,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.hovers.currentLine.over": "line",
+  "editor.tabSize": 2,
+  "instantmarkdown.autoOpenBrowser": false,
+  "files.exclude": {
+    "**/.history": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.renderSideBySide": true,
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "gitlens.views.compare.files.compact": false,
+  "gitlens.views.search.files.compact": false,
+  "editor.parameterHints.enabled": false,
+  "breadcrumbs.enabled": true,
+  "eslint.packageManager": "yarn",
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.trailingComma": "es5",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Monokai One Dark Vivid",
+  "editor.fontWeight": "500",
+  "workbench.sideBar.location": "left",
+  "editor.maxTokenizationLineLength": 500000,
+  "sync.gist": "9835b6f91d3c2441a1b9ddc3cc89bcc2",
+  "gitlens.views.repositories.location": "explorer",
+  "gitlens.views.compare.location": "explorer",
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.codeAction.showDocumentation": {},
+  "eslint.validate": ["javscript"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.showSlider": "always",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": false,
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+
+  // recording
+  // /*
+  "editor.fontSize": 22,
+  "terminal.integrated.fontSize": 22,
+  "scm.diffDecorations": "none",
+  "editor.lineNumbers": "off",
+  "workbench.editor.showTabs": true,
+  "workbench.statusBar.visible": false,
+  "editor.cursorBlinking": "solid",
+  "window.zoomLevel": 0,
+  "breadcrumbs.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80],
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#001624"
+  },
+  /**/
+
+  "heretonotbreakcommas": "yep"
+}

@@ -1,0 +1,14 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["react-app", "prettier"],
+  "env": {
+    "es6": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "jsx-a11y/anchor-is-valid": 0,
+    "eqeqeq": 0
+  }
+}
